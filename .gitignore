@@ -1,0 +1,6 @@
+# WhatsApp bridge data: full chat history and login session. Never commit.
+store/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
